@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
 Figma File [Link](https://www.figma.com/design/TjpnuzkSiivaPUQ0GmKLRs/Judix-Intern-Assignment?node-id=1-583&t=mpfytItq2Mw5XRzj-0)
 
 ## Getting Started
